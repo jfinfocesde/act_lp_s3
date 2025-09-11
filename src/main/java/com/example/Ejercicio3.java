@@ -28,6 +28,5 @@ public class Ejercicio3 {
         // Diferencia entre pre y post operadores: 
         // Pre operadores: El operador se aplica antes de usar la variable.
         // Post operadores:El operador se aplica después de usar la variable.
-
     }
 }
