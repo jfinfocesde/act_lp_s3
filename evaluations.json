@@ -300,5 +300,80 @@
     ],
     "evaluatedAt": "2025-09-20T04:30:05.997Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "JD0P/act_lp_s3": {
+    "repositoryUrl": "JD0P/act_lp_s3",
+    "studentName": "Juan David Ospina Parra",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y resuelve operaciones aritméticas básicas. Se recomienda mejorar la encapsulación del código y considerar el uso de parámetros para generalizar la función."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código cumple con el objetivo de la actividad. Se recomienda crear un método `main` para ejecutar el código de forma independiente y mejorar la legibilidad general del código."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código demuestra el uso de pre y post incrementos/decrementos. Sin embargo, la salida en consola podría ser más clara para ilustrar mejor la diferencia entre ambos. Considera agregar comentarios inline para explicar cada paso."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y demuestra el uso de operadores de asignación compuesta. El código es limpio y fácil de entender. Podrías considerar hacer la variable `numero` un parámetro del método para mayor flexibilidad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona y realiza las operaciones solicitadas, pero el uso de operadores de asignación compuesta (+=, *=) directamente en la asignación a otra variable no es una práctica recomendada por claridad. Sería mejor separarlos para mejor legibilidad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero le falta una descripción de la actividad que debe resolver.  Podrías generalizar más el código para que funcione con diferentes valores, no solo con los hardcoded."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y cumple con lo solicitado, pero podría ser más modular dividiendo la lógica en funciones más pequeñas y descriptivas. Se podría mejorar la legibilidad agregando comentarios más específicos."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código presenta errores lógicos en la calificación (puede imprimir varias letras) y se puede mejorar la estructura del condicional para la hora. Considera usar `else if` de manera consistente para evitar ejecuciones múltiples y revisar la lógica de la calificación."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "Error al procesar la evaluación"
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código demuestra el uso correcto de los operadores lógicos. Se sugiere agregar comentarios explicando el propósito de cada bloque 'if' para mejorar la legibilidad."
+      }
+    ],
+    "overallScore": 3.5,
+    "totalActivities": 10,
+    "completedActivities": 9,
+    "summary": "Buen trabajo general. Completó 9/10 actividades (90%) con una calificación promedio de 3.5/5. Hay oportunidades de mejora en algunos aspectos.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja"
+    ],
+    "evaluatedAt": "2025-09-20T14:31:19.725Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
