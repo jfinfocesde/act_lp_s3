@@ -18,6 +18,3 @@ package com.example;
         System.out.println("Puntos totales: " + puntos);
     }
 }
-
-    }
-}
