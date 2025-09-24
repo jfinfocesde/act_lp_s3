@@ -1,28 +1,28 @@
-package com.example;
-
 public class Ejercicio2 {
     public static void ejercicio2() {
         System.out.println("Ejercicio 2");
-        // tu código aquí
+
         int a = 10;
-        int b = 5;
-        int divisionEntera = a / b;
+        int b = 3;
+
         
-        System.out.println("El resultado de la división entera es: " + divisionEntera);
+        int divisionEntera = a / b;
+        System.out.println("División entera (10 / 3): " + divisionEntera);  // Resultado: 3
+
         
         double divisionDecimal = (double) a / b;
-        System.out.println("El resultado de la división decimal es: " + divisionDecimal);
-        
+        System.out.println("División decimal (10 / 3): " + divisionDecimal);  // Resultado: 3.333...
+
         double x = 15.5;
         double y = 4.2;
 
-        double divisionDecimal2 = x / y;
-
-        System.out.println("El resultado de la división decimal es:(15.5 / 4.2): " + divisionDecimal2);
-
-        //cuando dividimos dos valores int, el resultado también es un int. Si queremos un resultado decimal, al menos uno de los valores debe ser double.
-        //Para obtener un resultado decimal, necesitamos convertir al menos uno de los operandos a double.
-        //Cuando ambos operandos son double, Java realiza una división con punto flotante, conservando los decimales.
         
+        double divisionDecimales = x / y;
+        System.out.println("División de decimales (15.5 / 4.2): " + divisionDecimales);  // Resultado: 3.690...
+
+        // Explicación:
+        // La división entre enteros descarta los decimales y da un número entero (se trunca).
+        // Al convertir uno de los operandos a double, el resultado conserva los decimales.
+        // Cuando ambos operandos son double, se obtiene una división con decimales completa.
     }
 }
