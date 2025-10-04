@@ -309,71 +309,71 @@
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y resuelve operaciones aritméticas básicas. Se recomienda mejorar la encapsulación del código y considerar el uso de parámetros para generalizar la función."
+        "feedback": "El código funciona correctamente y es legible. Podrías considerar crear métodos separados para cada operación aritmética para mejorar la modularidad y reutilización del código."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código cumple con el objetivo de la actividad. Se recomienda crear un método `main` para ejecutar el código de forma independiente y mejorar la legibilidad general del código."
+        "feedback": "El código resuelve la actividad correctamente y demuestra la diferencia entre división entera y decimal. Se sugiere usar nombres de variables más descriptivos y considerar la creación de pruebas unitarias para validar la funcionalidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código demuestra el uso de pre y post incrementos/decrementos. Sin embargo, la salida en consola podría ser más clara para ilustrar mejor la diferencia entre ambos. Considera agregar comentarios inline para explicar cada paso."
+        "feedback": "El código demuestra correctamente el uso de pre y post incrementos/decrementos. Se podría mejorar la claridad de los resultados impresos y considerar la creación de una clase main para ejecutar el método ejercicio3."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y demuestra el uso de operadores de asignación compuesta. El código es limpio y fácil de entender. Podrías considerar hacer la variable `numero` un parámetro del método para mayor flexibilidad."
+        "feedback": "La solución es correcta y demuestra el uso de asignaciones compuestas. El código es claro y fácil de entender. Podrías considerar añadir comentarios más descriptivos sobre el propósito general de la clase o método."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona y realiza las operaciones solicitadas, pero el uso de operadores de asignación compuesta (+=, *=) directamente en la asignación a otra variable no es una práctica recomendada por claridad. Sería mejor separarlos para mejor legibilidad."
+        "feedback": "El código cumple con la funcionalidad solicitada y es legible. Sin embargo, el uso de operadores de asignación compuestos directamente en la impresión puede dificultar la lectura. Considera separar la operación de la impresión para mayor claridad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona, pero le falta una descripción de la actividad que debe resolver.  Podrías generalizar más el código para que funcione con diferentes valores, no solo con los hardcoded."
+        "feedback": "El código funciona según lo esperado, pero le falta contexto sobre la actividad.  Sería mejor si el código recibiera los datos como parámetros o los solicitara al usuario en lugar de usar valores predefinidos."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con lo solicitado, pero podría ser más modular dividiendo la lógica en funciones más pequeñas y descriptivas. Se podría mejorar la legibilidad agregando comentarios más específicos."
+        "feedback": "El código funciona y cumple con lo esperado. Sin embargo, la función `ejercicio7` debería recibir los valores como parámetros en lugar de tenerlos hardcoded para mejorar la reusabilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código presenta errores lógicos en la calificación (puede imprimir varias letras) y se puede mejorar la estructura del condicional para la hora. Considera usar `else if` de manera consistente para evitar ejecuciones múltiples y revisar la lógica de la calificación."
+        "feedback": "El código tiene errores lógicos en la evaluación de la calificación (el 'else' está mal anidado) y el método debe ser invocado. Considera usar `else if` para mejorar la lógica y claridad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 0,
+        "score": 4,
         "fileFound": true,
-        "feedback": "Error al procesar la evaluación"
+        "feedback": "El código demuestra el uso correcto de operadores de comparación. Se recomienda agregar comentarios explicando el propósito del método y las comparaciones realizadas para mejorar la legibilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código demuestra el uso correcto de los operadores lógicos. Se sugiere agregar comentarios explicando el propósito de cada bloque 'if' para mejorar la legibilidad."
+        "feedback": "El código demuestra correctamente el uso de operadores lógicos. Considera agregar comentarios explicando el propósito de cada condición para mejorar la legibilidad. La estructura es buena, pero la actividad no es muy descriptiva, por lo cual se asume que la implementación es correcta."
       }
     ],
-    "overallScore": 3.5,
+    "overallScore": 3.9,
     "totalActivities": 10,
-    "completedActivities": 9,
-    "summary": "Buen trabajo general. Completó 9/10 actividades (90%) con una calificación promedio de 3.5/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 10,
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.9/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-09-20T14:31:19.725Z",
+    "evaluatedAt": "2025-10-04T12:36:17.741Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
   "Jhomilopez/act_lp_s3": {
@@ -751,81 +751,6 @@
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
     "evaluatedAt": "2025-10-04T12:33:35.852Z",
-    "evaluatedBy": "Sistema de Evaluación de No Calificados"
-  },
-  "01GlennAM/act_lp_s3": {
-    "repositoryUrl": "01GlennAM/act_lp_s3",
-    "studentName": "Glenn  Álvarez",
-    "activities": [
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "El código funciona correctamente y realiza las operaciones básicas solicitadas. Se sugiere considerar el uso de nombres de variables más descriptivos y crear métodos separados para cada operación aritmética para mejorar la organización del código."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra la diferencia entre la división entera y decimal. Sería bueno agregar comentarios explicando el propósito general del ejercicio y las variables."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "El código demuestra correctamente el pre y post incremento/decremento. La solución es completa y clara."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "El código realiza las operaciones solicitadas, pero los mensajes en los `System.out.println` son redundantes y parcialmente incorrectos. Considera usar variables con nombres más descriptivos y evitar comentarios redundantes."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con el objetivo de la actividad. Podrías mejorar la legibilidad agregando comentarios que expliquen el propósito de cada sección y considerando la posibilidad de usar nombres de variables más descriptivos."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "El código funciona, pero no se describe la actividad, lo que dificulta la evaluación completa. Se podrían usar condicionales `else if` para hacer el código más eficiente en la evaluación del número."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "El código funciona, pero carece de una descripción clara del problema que resuelve.  Podrías mejorar la legibilidad y organización, además de generalizar las condiciones en lugar de usar valores hardcodeados."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "El código funciona y tiene la lógica correcta, pero no hay una descripción clara del problema a resolver.  Considera encapsular la lógica en funciones más pequeñas y significativas."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "El código funciona, pero la descripción de la actividad es inexistente, lo cual dificulta la evaluación precisa. Podrías mejorar la legibilidad con espacios en blanco y considerar el uso de un método main para ejecutar el código directamente."
-      },
-      {
-        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "El código funciona según lo esperado y demuestra el uso de operadores lógicos. Podrías mejorar la legibilidad usando nombres de variables más descriptivos y considerar refactorizar bloques de código repetidos."
-      }
-    ],
-    "overallScore": 3.6,
-    "totalActivities": 10,
-    "completedActivities": 10,
-    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.6/5. Hay oportunidades de mejora en algunos aspectos.",
-    "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
-    ],
-    "evaluatedAt": "2025-10-04T12:34:38.985Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
