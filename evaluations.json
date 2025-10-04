@@ -528,79 +528,79 @@
     "evaluatedAt": "2025-10-04T04:17:42.821Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "duacon/act_lp_s3": {
-    "repositoryUrl": "duacon/act_lp_s3",
-    "studentName": "Estudiante desconocido",
+  "Ecatano/act_lp_s3": {
+    "repositoryUrl": "Ecatano/act_lp_s3",
+    "studentName": "Edwin Alexis Cataño Saldarriaga",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve correctamente el ejercicio. Podría ser más genérico, por ejemplo, recibiendo los números como parámetro. Buena legibilidad."
+        "feedback": "El código resuelve la actividad correctamente y es legible. Se podría mejorar la reutilización del código y evitar valores hardcodeados."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve correctamente la actividad, demostrando el concepto de división entera y decimal. El código es claro, conciso y bien documentado con comentarios relevantes."
+        "feedback": "El código funciona correctamente y demuestra la división entera y decimal. Podrías considerar generalizar los valores de entrada para hacerlo más flexible. Considera nombres de variables más descriptivos."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código demuestra correctamente el funcionamiento de los operadores de incremento y decremento. Podrías añadir comentarios explicando cada línea para mayor claridad."
+        "feedback": "El código funciona y demuestra el uso de pre/post incremento/decremento. Considera agregar comentarios para explicar el propósito de cada línea y usar un nombre más descriptivo para la función, ya que 'ejercicio3' no indica su funcionalidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona y realiza las operaciones solicitadas correctamente. Sin embargo, la función 'ejercicio4' debería ser más genérica, aceptando un número inicial como parámetro en lugar de tenerlo hardcodeado. Considera añadir comentarios para mejorar la legibilidad."
+        "feedback": "La actividad es correcta y cumple con lo esperado. Sin embargo, la función 'ejercicio4' debería tener un nombre más descriptivo de lo que hace. Considera usar variables más descriptivas para mejor legibilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código realiza las operaciones solicitadas, pero le falta contexto sobre el problema que debía resolver. La función 'ejercicio5' debería ser más genérica y recibir parámetros en lugar de tener valores fijos hardcodeados."
+        "feedback": "El código realiza las operaciones solicitadas correctamente, aunque la descripción de la actividad es inexistente. Podría ser más útil si se modulariza el código en funciones más pequeñas y se agrega una descripción clara del problema a resolver."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 4,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona correctamente demostrando el uso de estructuras condicionales. Se puede mejorar la encapsulación y legibilidad creando métodos más específicos para cada evaluación (edad, nota, número). Considera que la descripción de la actividad es 'undefined', asumo que la intención era mostrar el uso de `if`, `else if` y `else`."
+        "feedback": "El código funciona, pero no hay una descripción de la tarea, por lo que la funcionalidad es difícil de evaluar.  Falta modularizar y generalizar el código para que sea más reutilizable; el método `ejercicio6` debería recibir parámetros y retornar valores en lugar de simplemente imprimir en consola."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona y realiza las comprobaciones solicitadas, pero le falta generalidad. La función debería recibir los números como parámetros en lugar de usar valores hardcodeados dentro de la función. Considera mejorar la legibilidad del código con nombres de variables más descriptivos."
+        "feedback": "El código funciona, pero la falta de una descripción clara de la actividad dificulta la evaluación completa.  Considera mejorar la legibilidad del código y la claridad de los mensajes de salida."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 0,
+        "score": 3,
         "fileFound": true,
-        "feedback": "Error al procesar la evaluación"
+        "feedback": "El código funciona, pero la falta de una descripción clara de la actividad dificulta evaluar su completitud. Podrías mejorar la legibilidad separando la lógica de la calificación y el saludo en funciones separadas."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 4,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y realiza las comparaciones como se espera. Podría ser más descriptivo en cuanto a la finalidad del ejercicio dentro de los comentarios o el nombre del método, pero la implementación es correcta."
+        "feedback": "El código funciona pero no está claro cuál era el objetivo del ejercicio, ya que solo imprime comparaciones y algunos strings predefinidos.  Hay una impresión redundante (a < b), y una incorrecta (a > b). Considera definir mejor el propósito de la función y usar los operadores lógicos correctamente."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 4,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona y demuestra el uso de operadores lógicos, pero la falta de una descripción clara de la actividad dificulta evaluar la completitud. Sería bueno agregar comentarios explicando el propósito de cada condición."
+        "feedback": "El código funciona y demuestra el uso de operadores lógicos, pero la falta de una descripción clara de la actividad dificulta una evaluación completa.  Se podrían mejorar la legibilidad y el propósito del código con una descripción más detallada del problema a resolver."
       }
     ],
-    "overallScore": 3.5,
+    "overallScore": 3.4,
     "totalActivities": 10,
-    "completedActivities": 9,
-    "summary": "Buen trabajo general. Completó 9/10 actividades (90%) con una calificación promedio de 3.5/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 10,
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.4/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-10-04T04:20:58.784Z",
+    "evaluatedAt": "2025-10-04T04:22:03.662Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
