@@ -376,79 +376,81 @@
     "evaluatedAt": "2025-09-20T14:31:19.725Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "Guelo708/act_lp_s3": {
-    "repositoryUrl": "Guelo708/act_lp_s3",
-    "studentName": "Miguel Eduardo Hernández Hernández",
+  "angimnt/act_lp_s3": {
+    "repositoryUrl": "angimnt/act_lp_s3",
+    "studentName": "Angi Paola Montaño Lozada",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y realiza las operaciones aritméticas solicitadas. Considera usar nombres de variables más descriptivos y evitar la concatenación directa en los `println` para mejorar la legibilidad."
+        "feedback": "La actividad presenta la estructura básica, pero no incluye la implementación de la lógica requerida para resolver el ejercicio. Falta agregar el código específico para completar la funcionalidad esperada."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código demuestra correctamente los conceptos de división entera y decimal en Java. La explicación en comentarios es clara y útil. Excelente trabajo."
+        "feedback": "El código proporcionado solo contiene la estructura básica de la clase y el método, pero no implementa ninguna lógica funcional específica para resolver la actividad. Falta completar la implementación del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código demuestra correctamente el funcionamiento de los operadores de pre/post incremento/decremento. La explicación en comentarios es clara y concisa, facilitando la comprensión del código."
+        "feedback": "La actividad no está resuelta. Solo se presenta el esqueleto inicial de la clase y el método, sin implementar la lógica requerida para el ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código demuestra correctamente el uso de operadores compuestos en Java. La estructura es clara y fácil de entender."
+        "feedback": "El código base está presente pero no implementa ninguna funcionalidad para resolver el ejercicio. Falta la lógica principal dentro del método `ejercicio4()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y es fácil de entender. Podrías mejorar la legibilidad nombrando las variables de manera más descriptiva y considerar la posibilidad de recibir los valores iniciales como parámetros en lugar de hardcodearlos."
+        "feedback": "La actividad no presenta una solución al problema planteado. Solo muestra una función con un comentario indicando dónde se debería colocar el código."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 3,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona y cumple con los requerimientos básicos, pero carece de flexibilidad. Deberías considerar usar parámetros para las variables `edad`, `nota` y `numero` para que el método `ejercicio6` sea más reutilizable y adaptable a diferentes escenarios. Además, podrías combinar los `if` en la verificación del número en un `if-else if-else`."
+        "feedback": "El código base está presente, pero no se implementó ninguna solución al problema planteado. Se requiere implementar la lógica específica del ejercicio dentro del método `ejercicio6()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 3,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y cumple con lo básico. Sin embargo, la función `ejercicio7` carece de parámetros y utiliza valores hardcoded. Se recomienda generalizar la función para que reciba los valores como entrada."
+        "feedback": "La actividad no implementa ninguna lógica funcional. Solo imprime 'Ejercicio 7'. Necesitas implementar la lógica solicitada en la descripción de la actividad (que está indefinida)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La lógica es correcta y funciona como se espera. Se podría mejorar la legibilidad separando las dos partes del ejercicio en funciones separadas y validando los rangos de entrada (ej. la calificación no debería ser negativa). "
+        "feedback": "El código base está presente, pero la actividad no está resuelta. Falta la implementación de la lógica solicitada en la descripción del ejercicio."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra el uso de operadores de comparación. Podría ser más útil si la descripción de la actividad fuera proporcionada, pero por el contenido del código, parece haber cumplido con el objetivo."
+        "feedback": "El código proporciona la estructura básica de la clase y método, pero no implementa la lógica requerida para resolver el ejercicio. Falta la implementación específica de la funcionalidad descrita en la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra el uso de operadores lógicos. Podrías mejorar la legibilidad agregando comentarios más descriptivos y considerar usar variables más significativas."
+        "feedback": "El código solo contiene un esqueleto. Falta la implementación de la lógica requerida para resolver el problema planteado en la descripción de la actividad (que no se proporcionó)."
       }
     ],
-    "overallScore": 4.1,
+    "overallScore": 1,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.1/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-04T04:10:21.293Z",
+    "evaluatedAt": "2025-10-04T04:11:21.283Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
