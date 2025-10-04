@@ -76,79 +76,79 @@
   },
   "Yor471/act_lp_s3": {
     "repositoryUrl": "Yor471/act_lp_s3",
-    "studentName": "Estudiante desconocido",
+    "studentName": "Yorladis  Motato Grisales",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no tiene ningún código implementado más allá del esqueleto inicial. Es necesario agregar la lógica para resolver el problema planteado en la descripción, la cual falta."
+        "feedback": "El código funciona y demuestra los operadores aritméticos básicos. Podrías generalizar la función para que reciba los números como parámetros en lugar de tenerlos hardcodeados."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código proporciona la estructura básica pero no implementa la lógica requerida para resolver el problema planteado en la descripción (que no está definida, pero se asume que hay algo que hacer). Falta la implementación dentro del método `ejercicio2()`."
+        "feedback": "La solución es correcta y completa. El código es claro y la explicación sobre la división entera vs. decimal es precisa y bien documentada."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código provee la estructura básica, pero no implementa la lógica requerida para resolver el ejercicio (descripción indefinida). Se necesita implementar la funcionalidad específica del ejercicio."
+        "feedback": "La solución demuestra un entendimiento correcto de los operadores de incremento y decremento. Se repite la clase `Ejercicio3`. La explicación en comentarios es clara y concisa."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución solo contiene la estructura básica de la clase y el método, pero no implementa la lógica requerida para resolver la actividad. Es necesario agregar la funcionalidad solicitada."
+        "feedback": "El código resuelve la actividad mostrando el uso de operadores de asignación compuestos. Se podría mejorar encapsulando la lógica dentro de una clase con un nombre más descriptivo para la tarea y utilizando comentarios Javadoc."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código proporciona una estructura básica pero no implementa la lógica del ejercicio. Falta completar la funcionalidad requerida dentro del método `ejercicio5()`."
+        "feedback": "El código realiza las operaciones solicitadas correctamente. Sin embargo, la falta de una descripción clara de la actividad impide una evaluación más completa. Se recomienda agregar comentarios y una función `main` para ejecutar el código de forma independiente."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código base está presente pero la actividad no está resuelta.  Se requiere implementar la lógica específica del ejercicio dentro del método `ejercicio6()`."
+        "feedback": "El código funciona como se espera para los casos probados, sin embargo, la descripción de la actividad es 'undefined', por lo que no se puede evaluar si resuelve el problema propuesto correctamente. Se sugiere definir mejor los requisitos del ejercicio y usar un solo bloque `if-else if-else` para verificar el signo del número."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código base está presente, pero falta la implementación de la lógica del ejercicio. Considera agregar la funcionalidad requerida dentro del método `ejercicio7()`."
+        "feedback": "El código funciona, pero tiene un error lógico en la primera condición (número par o impar), donde la llave del `if` está vacía. Además, aunque funciona, la función `ejercicio7` debería recibir parámetros para ser más reutilizable y cumplir con la descripción faltante de la actividad (undefined). Considera agregar comentarios para mejorar la legibilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no resuelve ningún problema específico. Solo imprime \"Ejercicio 8\". Falta implementar la lógica requerida para la actividad."
+        "feedback": "El código solo contiene la estructura básica y un mensaje de impresión, pero no implementa ninguna lógica relacionada con la descripción de la actividad (que está 'undefined'). Falta implementar la solución al problema planteado."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código provee una estructura básica, pero no implementa la lógica requerida por la actividad (que está indefinida). Falta la implementación del problema específico."
+        "feedback": "El archivo contiene la estructura básica pero no implementa la lógica solicitada en la descripción de la actividad (que está indefinida). Necesitas implementar la funcionalidad requerida dentro del método `ejercicio9()`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código base está presente, pero no se implementa ninguna lógica para resolver la actividad. Se requiere implementar la funcionalidad descrita en el enunciado del ejercicio."
+        "feedback": "La actividad no implementa la solución al problema planteado, solo imprime un mensaje. Es necesario completar la lógica del ejercicio dentro del método `ejercicio10()`."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 2.9,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 2.9/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
       "Revisar y mejorar las actividades con calificación baja",
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-09-20T04:21:46.641Z",
+    "evaluatedAt": "2025-10-04T04:18:47.794Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
   "jhanklondonoc-spec/act_lp_s3": {
