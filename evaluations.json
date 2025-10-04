@@ -603,81 +603,79 @@
     "evaluatedAt": "2025-10-04T04:22:03.662Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "angimnt/act_lp_s3": {
-    "repositoryUrl": "angimnt/act_lp_s3",
-    "studentName": "Angi Paola Montaño Lozada",
+  "joseleonardosg19-ship-it/act_lp_s3": {
+    "repositoryUrl": "joseleonardosg19-ship-it/act_lp_s3",
+    "studentName": "Jose Leonardo Saez Garcia",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 1,
+        "score": 2,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura base de la clase y el método, pero no implementa la lógica requerida para resolver el ejercicio propuesto. Se debe completar la implementación dentro del método `ejercicio1()`."
+        "feedback": "El código realiza operaciones básicas pero la descripción de la actividad está ausente, impidiendo saber si se cumple el objetivo. Faltan las implementaciones de las funciones sumar, restar, multiplicar, dividir y modulo para que el código sea funcional."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no presenta ninguna solución implementada. Solo se encuentra la estructura básica de la función `ejercicio2()`, pero sin el código que resuelva el problema planteado en la descripción (la cual está indefinida). Se requiere completar la lógica dentro de la función."
+        "feedback": "El código cumple con el objetivo de demostrar la división entre enteros y decimales. Podría ser más general, recibiendo los números como parámetros en lugar de hardcodearlos. Se valora la explicación en los comentarios."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El archivo contiene la estructura base, pero falta la implementación del ejercicio. Necesitas agregar el código que resuelve la actividad descrita."
+        "feedback": "La solución es correcta y demuestra un buen entendimiento de los operadores de incremento y decremento. El código es claro, bien documentado y sigue buenas prácticas."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no presenta ninguna implementación para resolver el problema planteado. Solo contiene la estructura básica de una función en Java."
+        "feedback": "El código demuestra correctamente el uso de operadores de asignación compuesta. El código es limpio, fácil de entender y cumple con el propósito de la actividad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. Solo se proporciona la estructura básica. Se requiere la implementación del algoritmo solicitado en la descripción (que no está definida)."
+        "feedback": "La solución es funcional y cumple con el objetivo del ejercicio.  Podrías mejorar la legibilidad incluyendo comentarios que expliquen el propósito de cada bloque de código y evitar el hardcoding de los valores iniciales (considerar usar variables/constantes con nombres descriptivos)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código solo incluye la estructura básica y un comentario placeholder. Falta la implementación del ejercicio solicitado."
+        "feedback": "El código funciona, pero la descripción de la actividad es 'undefined', lo que dificulta saber si cumple el propósito original. Se recomienda agregar una descripción clara de la actividad para evaluar completamente la solución."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura básica del ejercicio 7 y no implementa ninguna funcionalidad específica. Falta la implementación del problema planteado en la descripción de la actividad."
+        "feedback": "El código funciona como se espera, pero falta información sobre el objetivo del ejercicio. La función `ejercicio7` debería recibir parámetros y realizar operaciones más complejas en lugar de imprimir directamente en la consola con valores hardcodeados."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La función `ejercicio8` solo imprime \"Ejercicio 8\" y no implementa ninguna funcionalidad adicional.  Falta completar la lógica del problema que debe resolver la actividad."
+        "feedback": "El código funciona correctamente y es legible. Sin embargo, la falta de una descripción clara del problema dificulta la evaluación completa. Podrías agregar comentarios explicando la lógica o propósito de cada sección para mejorar la claridad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "La actividad no resuelve ningún problema específico, solamente imprime un mensaje genérico. Falta implementar la lógica requerida para la actividad."
+        "feedback": "El código realiza comparaciones básicas, pero la descripción de la actividad está indefinida. Se sugiere agregar una descripción clara de la tarea a realizar para una evaluación más precisa y enfocar el código en la actividad planteada."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código provee la estructura básica pero no implementa la lógica requerida para resolver el problema planteado en la descripción (que no está definida). Falta la implementación del algoritmo o la funcionalidad específica del ejercicio 10."
+        "feedback": "El código funciona correctamente y demuestra un buen entendimiento de los operadores lógicos. El código es limpio y bien estructurado, lo que facilita su lectura y comprensión."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 3.8,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.8/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Revisar y mejorar las actividades con calificación baja"
     ],
-    "evaluatedAt": "2025-10-04T12:27:11.184Z",
+    "evaluatedAt": "2025-10-04T12:28:14.956Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
