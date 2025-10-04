@@ -752,5 +752,80 @@
     ],
     "evaluatedAt": "2025-10-04T12:33:35.852Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
+  },
+  "01GlennAM/act_lp_s3": {
+    "repositoryUrl": "01GlennAM/act_lp_s3",
+    "studentName": "Glenn  Álvarez",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y realiza las operaciones básicas solicitadas. Se sugiere considerar el uso de nombres de variables más descriptivos y crear métodos separados para cada operación aritmética para mejorar la organización del código."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y demuestra la diferencia entre la división entera y decimal. Sería bueno agregar comentarios explicando el propósito general del ejercicio y las variables."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "El código demuestra correctamente el pre y post incremento/decremento. La solución es completa y clara."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código realiza las operaciones solicitadas, pero los mensajes en los `System.out.println` son redundantes y parcialmente incorrectos. Considera usar variables con nombres más descriptivos y evitar comentarios redundantes."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona correctamente y cumple con el objetivo de la actividad. Podrías mejorar la legibilidad agregando comentarios que expliquen el propósito de cada sección y considerando la posibilidad de usar nombres de variables más descriptivos."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero no se describe la actividad, lo que dificulta la evaluación completa. Se podrían usar condicionales `else if` para hacer el código más eficiente en la evaluación del número."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero carece de una descripción clara del problema que resuelve.  Podrías mejorar la legibilidad y organización, además de generalizar las condiciones en lugar de usar valores hardcodeados."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona y tiene la lógica correcta, pero no hay una descripción clara del problema a resolver.  Considera encapsular la lógica en funciones más pequeñas y significativas."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código funciona, pero la descripción de la actividad es inexistente, lo cual dificulta la evaluación precisa. Podrías mejorar la legibilidad con espacios en blanco y considerar el uso de un método main para ejecutar el código directamente."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona según lo esperado y demuestra el uso de operadores lógicos. Podrías mejorar la legibilidad usando nombres de variables más descriptivos y considerar refactorizar bloques de código repetidos."
+      }
+    ],
+    "overallScore": 3.6,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.6/5. Hay oportunidades de mejora en algunos aspectos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-10-04T12:34:38.985Z",
+    "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
