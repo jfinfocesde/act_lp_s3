@@ -375,5 +375,82 @@
     ],
     "evaluatedAt": "2025-09-20T14:31:19.725Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "Juan04786/act_lp_s3": {
+    "repositoryUrl": "Juan04786/act_lp_s3",
+    "studentName": "Estudiante desconocido",
+    "activities": [
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio1.java",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código tiene un error de compilación debido a la doble declaración del método `ejercicio1`. Además, la estructura es redundante. Aunque la lógica de las operaciones es correcta, la presentación es deficiente."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio2.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código tiene errores de sintaxis (función `ejercicio2` duplicada). Además, falta la declaración de las variables `a` y `b` antes de usarlas en la división entera y decimal."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio3.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código funciona y demuestra el uso de pre/post incremento/decremento. Hay una repetición innecesaria del método `ejercicio3()`. Considera eliminar la redundancia."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio4.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "El código resuelve la actividad, pero hay redundancia en la declaración de la función ejercicio4() y errores de tipeo en los mensajes de salida. Elimina la declaración duplicada y corrige la ortografía."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio5.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con el objetivo del ejercicio y presenta el código funcional.  Sin embargo, hay una redundancia en la declaración de la clase (package duplicado) que debe ser corregida para evitar errores de compilación.  Considera utilizar nombres de variables más descriptivos para mejorar la legibilidad."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio6.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código tiene errores de sintaxis graves y está incompleto. La lógica condicional parece incompleta e incorrecta, con múltiples bloques `if` mal estructurados. Requiere una reescritura completa."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio7.java",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código tiene errores de sintaxis (punto y coma después de `if` y bloques innecesarios). La lógica de la condición par/impar es incorrecta (siempre imprime \"El número es par\"). Mejora la indentación y elimina los puntos y comas incorrectos en las sentencias `if`."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio8.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "El código tiene errores de sintaxis graves (puntos y comas incorrectos en las sentencias `if` y redundancia del método `ejercicio8`). La lógica para la asignación de calificaciones y saludos es defectuosa y no produce el resultado esperado."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio9.java",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código tiene duplicación de la clase y un error de sintaxis con el package en el medio. Aunque la lógica de las comparaciones es correcta, la estructura y redundancia afectan la calificación."
+      },
+      {
+        "solutionFile": "src/main/java/com/example/Ejercicio10.java",
+        "score": 2,
+        "fileFound": true,
+        "feedback": "El código tiene errores de sintaxis (duplicación del método `ejercicio10`) y falta contexto sobre la actividad a realizar. La lógica de los operadores lógicos es correcta, pero la estructura general necesita corrección y mejor documentación."
+      }
+    ],
+    "overallScore": 2.2,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 2.2/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-10-04T04:09:21.078Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
