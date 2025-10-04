@@ -603,81 +603,79 @@
     "evaluatedAt": "2025-10-04T04:22:03.662Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Juan04786/act_lp_s3": {
-    "repositoryUrl": "Juan04786/act_lp_s3",
-    "studentName": "Estudiante desconocido",
+  "Guelo708/act_lp_s3": {
+    "repositoryUrl": "Guelo708/act_lp_s3",
+    "studentName": "Miguel Eduardo Hernández Hernández",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
-        "score": 2,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código tiene una doble declaración del método `ejercicio1` y está mal formateado. Aunque realiza las operaciones básicas solicitadas, la estructura general necesita corrección y limpieza."
+        "feedback": "El código funciona correctamente y resuelve el problema planteado. Se pueden mejorar las convenciones de nombres (nombres de variables más descriptivos) y evitar concatenaciones directas en System.out.println para mayor claridad (usar String.format o StringBuilder)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
-        "score": 2,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código tiene errores de sintaxis (método `ejercicio2` duplicado y llaves mal cerradas). La lógica de las divisiones es correcta, pero la estructura del código necesita revisión para ser ejecutable."
+        "feedback": "La solución es correcta y clara, demostrando la diferencia entre la división de enteros y decimales. El código está bien estructurado y documentado con comentarios explicativos, lo que facilita su comprensión."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra el uso de pre/post incremento/decremento. Sin embargo, hay una definición duplicada del método ejercicio3() que debe eliminarse. Considera mejorar la estructura del código (eliminando la definición duplicada) para una mejor legibilidad y mantenimiento."
+        "feedback": "El código demuestra claramente el uso de pre y post incremento/decremento. La explicación en comentarios es clara y concisa, facilitando la comprensión."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 3,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código funciona y muestra los operadores compuestos, pero hay una duplicación de la función `ejercicio4()` y errores tipográficos en los mensajes de salida. Se sugiere eliminar la función duplicada y corregir la ortografía."
+        "feedback": "El código demuestra correctamente el uso de operadores compuestos en Java. La estructura es clara y fácil de entender, mostrando ejemplos concisos."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve correctamente la actividad y muestra un buen entendimiento de operadores de asignación compuesta. Se sugiere eliminar la duplicación de la declaración del package y considerar la convención de nombrar las clases con la primera letra en mayúscula (Ejercicio5 vs ejercicio5)."
+        "feedback": "El código resuelve la actividad correctamente y es legible. Considera usar nombres de variables más descriptivos y encapsular mejor la lógica dentro de la función `ejercicio5` para una mejor mantenibilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
-        "score": 1,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código presenta errores de sintaxis graves que impiden su compilación y correcta ejecución.  La estructura del código es incorrecta y contiene múltiples declaraciones redundantes y mal ubicadas."
+        "feedback": "El código funciona como se espera al verificar condiciones simples. Podrías mejorar la estructura creando métodos para cada verificación individual y evitando la duplicación de `if` en la verificación del número (usar `else if`)."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
-        "score": 2,
+        "score": 3,
         "fileFound": true,
-        "feedback": "El código contiene errores de sintaxis y lógica (condiciones con ';' innecesarios y error al determinar si un número es par). La estructura es confusa y necesita limpieza.  Debes prestar atención a la sintaxis correcta de Java y la lógica de los condicionales."
+        "feedback": "El código funciona y realiza las verificaciones solicitadas, pero le falta generalidad y podría ser más dinámico. Se podrían parametrizar las variables en lugar de tener valores fijos."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código tiene errores de sintaxis graves (puntos y comas incorrectos después de las condiciones `if/else if`, código duplicado y errores de ortografía `calificaicon`). La lógica condicional tampoco es correcta debido a los puntos y comas después de las condiciones. El código no se ejecutará correctamente."
+        "feedback": "La solución resuelve correctamente el problema planteado. Sin embargo, las variables `calificacion` y `hora` deberían ser parámetros de la función `ejercicio8()` para mayor flexibilidad y reutilización del código."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
-        "score": 2,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código tiene errores de sintaxis (doble declaración de la clase). Aunque la lógica de las comparaciones es correcta, la estructura es incorrecta y el código no compilaría. Elimina la duplicación de la definición de la clase Ejercicio9."
+        "feedback": "El código funciona correctamente y demuestra el uso de operadores de comparación. Podría ser mejor si incluyera una descripción de la actividad en un comentario para saber el propósito del código."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
-        "score": 2,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código tiene errores de sintaxis (doble definición del método ejercicio10) y no cumple con una descripción clara de la actividad. La lógica de los operadores booleanos es correcta, pero necesita corrección y una mejor definición del problema a resolver."
+        "feedback": "El código funciona correctamente y demuestra el uso de operadores lógicos. Se podría mejorar la legibilidad agregando comentarios más descriptivos sobre el propósito de cada bloque condicional y usar nombres de variables más descriptivos."
       }
     ],
-    "overallScore": 2.3,
+    "overallScore": 4.1,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 2.3/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.1/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-10-04T12:25:04.979Z",
+    "evaluatedAt": "2025-10-04T12:26:08.838Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
