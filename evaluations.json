@@ -678,79 +678,79 @@
     "evaluatedAt": "2025-10-04T12:28:14.956Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "talzateg-netizen/act_lp_s3": {
-    "repositoryUrl": "talzateg-netizen/act_lp_s3",
-    "studentName": "Tania Jaqueline Alzate Gómez",
+  "dvalenciabetancur-glitch/act_lp_s3": {
+    "repositoryUrl": "dvalenciabetancur-glitch/act_lp_s3",
+    "studentName": "David Felipe Valencia Betancur",
     "activities": [
       {
         "solutionFile": "src/main/java/com/example/Ejercicio1.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código resuelve el problema correctamente y es legible. Se podría mejorar encapsulando las operaciones en funciones separadas para mayor claridad y reutilización."
+        "feedback": "El código funciona y cumple con los requisitos básicos. Considera usar nombres de variables más descriptivos y evitar la duplicación de la impresión de resultados."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio2.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona correctamente y demuestra la diferencia entre la división entera y decimal. Sería bueno encapsular la funcionalidad en métodos más pequeños para mejorar la legibilidad y la reusabilidad, y usar nombres más descriptivos para las variables."
+        "feedback": "El código cumple con la funcionalidad solicitada y es legible. Sin embargo, para una mejor práctica, la variable `divisionDecimal` debería ser declarada como `double` desde el inicio para evitar confusión al momento de su inicialización y se podría agregar una explicación más detallada del propósito del código en la documentación."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio3.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La actividad demuestra una comprensión clara de los operadores de incremento y decremento. El código está bien estructurado y comentado, facilitando la comprensión del comportamiento de los operadores."
+        "feedback": "La solución es correcta y concisa, demostrando el uso de pre/post incremento/decremento. El código es claro y bien documentado con una explicación útil."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio4.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código demuestra correctamente el uso de operadores de asignación compuesta. Es claro, conciso y funcional."
+        "feedback": "El código realiza las operaciones aritméticas compuestas correctamente.  Sería mejor definir una función que reciba el número inicial como parámetro para mayor flexibilidad y reusabilidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio5.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es funcional y logra el resultado esperado. Sin embargo, se podría mejorar la estructura separando la lógica en funciones más pequeñas y usando nombres de variables más descriptivos. Considerar la creación de una clase principal para encapsular la lógica."
+        "feedback": "El código cumple con la funcionalidad descrita y es legible. Podrías considerar usar nombres de variables más descriptivos para mejorar la comprensión."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio6.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona, pero la actividad es muy simple y no hay una descripción clara de lo que se pide. Falta modularización y una explicación del objetivo del ejercicio."
+        "feedback": "El código funciona pero la estructura de los `if` anidados no es la ideal para probar independientemente cada condición. La función `ejercicio6` no recibe parámetros, lo cual limita su reusabilidad y aplicabilidad a diferentes valores de edad, nota y numero."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio7.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona correctamente pero es muy básico. Podría ser más genérico recibiendo los valores por parámetro para que la función sea más reutilizable."
+        "feedback": "El código funciona, pero le falta contexto o una descripción de qué se espera que haga. La función `ejercicio7` debería tener un propósito más claro que simplemente imprimir resultados basados en condiciones fijas."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio8.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código funciona y es legible, pero podría ser más flexible y reutilizable. Considera usar una función para asignar la letra de calificación basada en el puntaje."
+        "feedback": "El código funciona y es legible. Podrías considerar usar un switch statement o un mapa para la lógica de la calificación para mejorar la estructura y evitar la repetición de `else if`."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio9.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona y demuestra el uso de operadores de comparación. Sin embargo, falta una descripción más clara de la actividad y una justificación para las variables y cadenas utilizadas. Podrías mejorar añadiendo comentarios explicativos y un contexto más relevante."
+        "feedback": "El código cumple con mostrar las comparaciones básicas. Sin embargo, la actividad carece de una descripción clara, lo cual dificulta una evaluación más profunda y la adición de complejidad."
       },
       {
         "solutionFile": "src/main/java/com/example/Ejercicio10.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código demuestra el uso correcto de operadores lógicos. Podría mejorarse encapsulando la lógica de las condiciones en funciones para mayor legibilidad y reutilización."
+        "feedback": "El código demuestra el uso correcto de operadores lógicos. Podría mejorarse la modularidad extrayendo la lógica de cada condición a métodos separados para mayor legibilidad y mantenibilidad."
       }
     ],
-    "overallScore": 3.9,
+    "overallScore": 3.8,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.9/5. Hay oportunidades de mejora en algunos aspectos.",
+    "summary": "Buen trabajo general. Completó 10/10 actividades (100%) con una calificación promedio de 3.8/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-10-04T12:29:19.384Z",
+    "evaluatedAt": "2025-10-04T12:30:23.741Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
